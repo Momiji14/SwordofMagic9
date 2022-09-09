@@ -4,6 +4,7 @@ public interface SomStatus {
 
     double getStatus(StatusType type);
     void setStatus(StatusType type, double value);
+    void addStatus(StatusType type, double value);
 
     int getExp();
     void setExp(int exp);
