@@ -18,15 +18,14 @@ public class PlayerData implements SomPlayer {
         this.player = player;
     }
 
+    @Override
+    public SomStatus getStatus() {
+        return null;
+    }
+
     private final Player player;
     @Override
     public Player getPlayer() {
         return player;
-    }
-
-    private StatusHolder status;
-    @Override
-    public StatusHolder getStatus() {
-        return status;
     }
 }
