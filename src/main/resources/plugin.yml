@@ -1,0 +1,6 @@
+name: SwordofMagic9
+version: '${project.version}'
+main: swordofmagic9.SomCore
+api-version: 1.19
+authors: [ MomiNeko ]
+description: SwordofMagic9
