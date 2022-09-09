@@ -1,6 +1,6 @@
-package swordofmagic9.SomStatus;
+package swordofmagic9;
 
-public enum StatusList {
+public enum StatusType {
     MaxHealth,
     Health,
     Shield,

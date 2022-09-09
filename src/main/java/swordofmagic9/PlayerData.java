@@ -1,7 +1,6 @@
 package swordofmagic9;
 
 import org.bukkit.entity.Player;
-import swordofmagic9.SomStatus.StatusHolder;
 
 import java.util.HashMap;
 
